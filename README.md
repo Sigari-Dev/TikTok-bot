@@ -13,4 +13,4 @@ Downloader Tiktok Bot
 5. `tmux`, send command.
 6. `screen python3 main.py`, Run with.
 
-©2021 - `<a href=https://t.me/PiniGerTeam>PiniGerTeam™</a>`
+©2021 - <a href=https://t.me/PiniGerTeam>PiniGerTeam™</a>
