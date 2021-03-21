@@ -12,3 +12,5 @@ Downloader Tiktok Bot
 4. `pip3 install -r prerequisites.txt`, install bot prerequisites.
 5. `tmux`, send command.
 6. `screen python3 main.py`, Run with.
+
+©2021 - `PiniGerTeam™ <https://t.me/PiniGerTeam>`__
