@@ -13,4 +13,4 @@ Downloader Tiktok Bot
 5. `tmux`, send command.
 6. `screen python3 main.py`, Run with.
 
-©2021 - `PiniGerTeam™ <https://t.me/PiniGerTeam>`__
+©2021 - __`PiniGerTeam™ <https://t.me/PiniGerTeam>`__
